@@ -16,6 +16,8 @@ public class Main {
         Point point = new Point(0,0);
 
         System.out.println("distance()= " + point.distance());
+        System.out.println("################");
+        Player player1 = new Player("hamit", 100, Weapon.SWORD);
 
 
     }
